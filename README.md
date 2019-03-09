@@ -19,15 +19,18 @@ To run the application locally, first clone this repository with the following c
 
 `git clone git@github.com:cdgillis/burger.git`
 
-Next, install the application dependencies.
+Next, navigate to the project file in the command line:
 
 `cd burger`
+
+And then install the application dependencies:
+
 `npm install`
 
-Finally, run the node server locally.
+Now, run the node server locally:
 
 `node server.js`
 
-Now, open the local application on port 8080 at the URL: http://localhost:8080/.
+Finally, open your web browser and navigate to this [URL](http://localhost:8080/).
 
 Enjoy your burger(s)!
