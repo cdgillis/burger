@@ -12,7 +12,7 @@ The initial burger entry is added as available on the menu and placed on the lef
 The user can then "eat" any burger by clicking on it, when then moves the burger into the adjacent column and updates its status accordingly within the database.
 
 ## Demo
-Try out this burger-eating application [here](https://secure-ocean-65753.herokuapp.com/)!.
+Try out this burger-eating application [here](https://secure-ocean-65753.herokuapp.com/)!
 
 ## Installation
 To run the application locally, first clone this repository with the following command.
@@ -21,7 +21,7 @@ To run the application locally, first clone this repository with the following c
 
 Next, install the application dependencies.
 
-`cd burger
+`cd burger\n
 npm install`
 
 Finally, run the node server locally.
