@@ -1,4 +1,4 @@
-import orm from "../config/orm";
+import orm from "../config/orm.js";
 
 var burger = {
     
